@@ -93,5 +93,4 @@
     <project path="external/magisk-prebuilt" name="external_magisk-prebuilt" remote="TeamWin" revision="android-12.1"/>
 
     <!-- LAST: Remove unused projects for minimal manifest -->
-    <include name="remove-minimal.xml"/>
 </manifest>
